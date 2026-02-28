@@ -1,15 +1,5 @@
 ---
-title: Statmize Health Intelligence
-emoji: 🏋️
-colorFrom: violet
-colorTo: indigo
-sdk: gradio
-sdk_version: "4.44.0"
-app_file: app.py
-pinned: false
----
-
-# 🏋️ Statmize Physiological Strain Analyzer
+Physiological Strain Analyzer
 
 > Real-time fatigue & overexertion detection powered by a hybrid physiological model + LightGBM classifier.
 
@@ -17,7 +7,7 @@ pinned: false
 
 ## 🧠 What Is This?
 
-The **Statmize Health Engine** is a physiological strain analyzer designed to help athletes, coaches, and fitness enthusiasts understand how hard the body is working — in real time.
+The **Health Engine** is a physiological strain analyzer designed to help athletes, coaches, and fitness enthusiasts understand how hard the body is working — in real time.
 
 It takes three simple biometric inputs (Heart Rate, SpO₂, and optional HRV) and outputs:
 
@@ -116,8 +106,8 @@ These baselines are used to compute personalized HR Reserve and SpO₂ drop scor
 ### 1. Clone the repo
 
 ```bash
-git clone https://huggingface.co/spaces/YOUR_USERNAME/statmize-health-engine
-cd statmize-health-engine
+git clone https://huggingface.co/spaces/YOUR_USERNAME/ -health-engine
+cd  -health-engine
 ```
 
 ### 2. Install dependencies
@@ -201,13 +191,3 @@ CRITICAL_SPO2 = 92.0
 This tool is intended for **fitness and performance monitoring purposes only**. It is **not a medical device** and should not be used as a substitute for professional medical advice, diagnosis, or treatment. If you experience symptoms of distress, consult a qualified healthcare professional.
 
 ---
-
-## 👤 Author
-
-Built by **Statmize** — sports intelligence, reimagined.
-
----
-
-## 📄 License
-
-MIT License — free to use, modify, and distribute with attribution.
