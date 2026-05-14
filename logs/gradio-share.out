@@ -1,0 +1,7 @@
+2026-05-14 12:33:23 - src.services.prediction_service - INFO - Model loaded from D:\health-engine\models\trained\recovery_random_forest.pkl
+* Running on local URL:  http://0.0.0.0:7862
+* Running on public URL: https://a14575d19c488a3ae0.gradio.live
+
+This share link expires in 1 week. For free permanent hosting and GPU upgrades, run `gradio deploy` from the terminal in the working directory to deploy to Hugging Face Spaces (https://huggingface.co/spaces)
+LOCAL_URL=http://localhost:7862/
+PUBLIC_URL=https://a14575d19c488a3ae0.gradio.live

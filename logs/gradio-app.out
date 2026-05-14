@@ -1,0 +1,4 @@
+2026-05-14 10:52:17 - src.services.prediction_service - INFO - Model loaded from D:\health-engine\models\trained\recovery_random_forest.pkl
+* Running on local URL:  http://0.0.0.0:7860
+* To create a public link, set `share=True` in `launch()`.
+LOCAL_URL=http://localhost:7860/
